@@ -11,6 +11,6 @@
 
 🤩 Programação 🤩 Músicas 🤩 Animais 🤩 Livros 🤩 Games 🤩
 
-🧒 Me chamo Bruno, tenho 19 anos 
-🌎 Moro em São José dos Campos - SP
-👨‍💻 Estudando atualmente JavaScript, HTML5, CSS3 e alguns frameworks
+🧒 Me chamo Bruno, tenho 19 anos <br>
+🌎 Moro em São José dos Campos - SP <br>
+👨‍💻 Estudando atualmente JavaScript, HTML5, CSS3 e alguns frameworks <br>
