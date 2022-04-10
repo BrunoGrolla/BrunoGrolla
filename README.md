@@ -7,7 +7,7 @@
 
 ### 👋 Olá Mundo!!
 
-## Sou Desensolvedor Web Junior 🤖
+## 🤖 Desensolvedor Web Junior 🤖
 
 🤩 Programação 🤩 Músicas 🤩 Animais 🤩 Livros 🤩 Games 🤩
 
