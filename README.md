@@ -14,10 +14,10 @@
 🧒 Me chamo Bruno, tenho 19 anos <br>
 🌎 Moro em São José dos Campos - SP <br>
 👨‍💻 Estudando atualmente JavaScript, HTML5, CSS3 e alguns frameworks <br>
-🤳🏼 Estou atualmente procurando novos desafios para colocar em meu portfólio.
-🧑🏻‍🚀 Estou a procura também de um estágio na minha área
-🤦‍♂️ Estou aberto a dicas e críticas para o meu aperfeiçoamento na área.
-🖥️ Como me encontrar:
+🤳🏼 Estou atualmente procurando novos desafios para colocar em meu portfólio.<br>
+🧑🏻‍🚀 Estou a procura também de um estágio na minha área<br>
+🤦‍♂️ Estou aberto a dicas e críticas para o meu aperfeiçoamento na área.<br>
+🖥️ Como me encontrar:<br>
 
 <a href="https://www.linkedin.com/in/bruno-grolla-939736206/">Linkedin</a>
 
